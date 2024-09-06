@@ -1,5 +1,7 @@
 # ePaper Buddy List for Meshtastic
 
+![Buddy list picture](/buddy_list_mounted.jpg)
+
 Here you will find the code for the ePaper Buddy List for Meshtastic. Much kudos to [Steve over at Iffy Books](https://github.com/iffybooks/meshtastic-buddy-list/tree/main) who did something very similar and gave me the idea to display this on an ePaper screen.
 
 Read my full write-up on how this works [on my website](https://boda.codes/post/meshtastic-buddy-list).
