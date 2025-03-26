@@ -29,7 +29,7 @@ def run_meshtastic_nodes():
                 row.insert(4, aka_value)  # Insert the AKA value at the 4th position
 
             # Define headers for the table 
-            headers = ["N", "Long Name", "ID", "Short Name", "AKA", "Hardware", "Latitude", "Longitude", "Altitude", "Battery", 
+            headers = ["N", "Long Name", "ID", "AKA", "Hardware", "Latitude", "Longitude", "Altitude", "Battery", 
                        "Channel Util.", "Tx Air Util.", "SNR", "Hops Away", "Channel", "LastHeard", "Since"]
 
             # Print the parsed data in a formatted table using tabulate, starting from the second row
